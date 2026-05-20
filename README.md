@@ -60,10 +60,6 @@ npm install
 npm start
 ```
 
-## Screenshots
-
-Add your project screenshots here.
-
 ## Future Improvements
 
 - Search functionality
